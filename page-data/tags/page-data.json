@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allMdx":{"group":[{"fieldValue":"タグA","totalCount":2},{"fieldValue":"タグB","totalCount":3},{"fieldValue":"タグC","totalCount":2}]}},"pageContext":{}},
+    "staticQueryHashes": ["171073001","3512877716","772138545"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/タグa/",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"slug":"post-two/","frontmatter":{"title":"投稿記事 2 のタイトル"}}},{"node":{"slug":"post-one/","frontmatter":{"title":"投稿記事 1 のタイトル"}}}]}},"pageContext":{"tag":"タグA"}},
+    "staticQueryHashes": ["171073001","3512877716","772138545"]}

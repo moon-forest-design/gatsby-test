@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[682],{5518:function(e,t,l){l.r(t);var r=l(7294),a=l(3533);t.default=function(){return r.createElement(a.Z,{pageTitle:"About Me",pageDescription:"（Aboutページの説明）"},r.createElement("p",null,"こんにちは！ 私は GatsbyJSを試しているところです。"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-5706a852420565534e1d.js.map

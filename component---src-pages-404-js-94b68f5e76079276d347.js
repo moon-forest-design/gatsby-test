@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{9616:function(e,t,r){r.r(t);var l=r(7294),a=r(5444),n=r(3533);t.default=function(){return l.createElement(n.Z,{pageTitle:"404 Not Found",pageDescription:"存在しないページです。"},l.createElement("p",null,"すみません。指定された URLのページは存在しません。"),l.createElement(a.rU,{to:"/"},"＞＞ トップページへ"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-94b68f5e76079276d347.js.map
